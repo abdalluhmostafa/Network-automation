@@ -2,4 +2,4 @@
 
 
 # Screenshots
-![Image description](https://i.ibb.co/VC7xChb/code-image.png)
+![Image description](https://i.imgur.com/lGXy5w6.png)
