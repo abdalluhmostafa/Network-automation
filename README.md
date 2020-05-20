@@ -1,5 +1,7 @@
 # Network-automation
-Python Network Automation code, it get { Hostname, Model, Uptime, software version, serial, Mac } from Cisco routers using netmiko library and GNS3 using ssh connection.
+Python Network Automation code, it get { Hostname, Model, Uptime, software version, serial, Mac } from Cisco routers using netmiko library and GNS3 formate using ssh connection.
+
+-- OUTPUT Format :JSON
 
 # Screenshots
 Cisco router, python code, VMware GNS3
